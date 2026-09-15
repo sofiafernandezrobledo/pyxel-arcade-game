@@ -20,19 +20,11 @@ The project was created as an academic team project and focuses on object-orient
 
 ## Gameplay
 
+![Gameplay screenshot](screenshots/gameplay.png)
+
 The player progresses through several levels while defeating enemies and collecting points.
 
-Different enemy types appear as the game advances:
-
-- Turtles
-- Crabs
-- Flies
-
-Each enemy has its own movement characteristics, dimensions, speed, and score value.
-
-After completing the main levels, the player reaches a bonus stage focused on collecting coins.
-
-The game also keeps track of the player's best score between sessions.
+Different enemy types appear as the game advances, including turtles, crabs, and flies. After completing the main levels, the player reaches a bonus stage focused on collecting coins.
 
 ## Controls
 
